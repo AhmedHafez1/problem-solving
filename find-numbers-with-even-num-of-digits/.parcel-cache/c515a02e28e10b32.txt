@@ -1,0 +1,10 @@
+9
+77C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\package.json133177380257530719 0
+91C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist\index.242b51c6.js.map133177391195133396 0
+69C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist133177391195143472 1
+73C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\index.ts133177394645272492 0
+75C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\index.html133177378182775304 0
+122C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist\find-numbers-with-even-num-of-digits.3464ddca.js.map133177388311555501 0
+118C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist\find-numbers-with-even-num-of-digits.3464ddca.js133177388311495443 0
+87C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist\index.242b51c6.js133177391195103374 0
+80C:\Practice\problem-solving\find-numbers-with-even-num-of-digits\dist\index.html133177388311495443 0
