@@ -1,0 +1,8 @@
+{
+  "name": "find-numbers-with-even-num-of-digits",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Ahmed Hafez",
+  "license": "ISC"
+}
